@@ -1,0 +1,231 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    padding: 0 ;
+    background-color: #fadde7;
+}
+
+h1 {
+    text-align: center;
+    color: #242975;
+}
+
+h3 {
+    text-align: center;
+    color: #454975;
+}
+p {
+    text-align: center;
+    color: #852e2e;
+}
+#foto button {
+    text-align: center;
+    color: #1c2242;
+    background-color: #c0c4fa91;
+    border: 1px transparent #ffffff;
+    border-radius: 10px;
+    height: 30px;
+    width: 200px;
+    stroke: #0f137e7e;
+}
+
+li{
+    padding: 5px;
+}
+
+img{
+    display: flex;
+    margin: 0px auto;
+} 
+
+form {
+    padding: 100px;
+    display: grid;
+}
+
+#teste {
+    display: flexbox;
+    height: 40vh;
+    width: 100vh;
+    border: 1px transparent #ffffff;
+    border-radius: 10px;
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #e3e5ff;
+    box-shadow: 0 0 10px rgba(36, 35, 35, 0.1);
+}
+
+#informacao {
+    display: flexbox;
+    text-align: justify;
+    height: 90vh;
+    width: 40vh;
+    border: 1px transparent #ffffff;
+    border-radius: 10px;
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #e3e4fc7e ;
+    box-shadow: 0 0 10px rgba(36, 35, 35, 0.1);
+}
+
+#foto {
+    padding: 50px;
+}
+
+#cjunto{
+    display: flex;
+    height: 110vh;
+    width: 200vh;
+    border: 1px transparent #ffffff;
+    border-radius: 10px;
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #ffcae77e ;
+    box-shadow: 0 0 10px rgba(36, 35, 35, 0.1);
+}
+
+#exs{
+    display: flexbox;
+    text-align: justify;
+    border: 1px transparent #ffffff;
+    border-radius: 10px;
+    max-width: 1000px;
+    margin: 50px auto;
+    padding: 0px;
+    border-radius: 15px;
+    background-color: #e3e4fc7e ;
+    box-shadow: 0 0 10px rgba(36, 35, 35, 0.1);
+}
+
+#exs h2{
+    text-align: center;
+    color: #3e438a;
+
+    display: flexbox;
+    
+    border: 1px transparent #ffffff;
+    border-radius: 10px;
+    
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #fcede37e ;
+    box-shadow: 0 0 10px rgba(36, 35, 35, 0.1);
+}
+
+#exNatuframe{
+    display: flexbox;
+    border: 1px transparent #ffffff;
+    border-radius: 10px;
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #fcede37e ;
+    box-shadow: 0 0 10px rgba(36, 35, 35, 0.1);
+}
+
+#exNatuframe iframe{
+    width: 800px;
+    height: 600px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#exEggframe{
+    display: flexbox;
+    border: 1px transparent #ffffff;
+    border-radius: 10px;
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #fcede37e ;
+    box-shadow: 0 0 10px rgba(36, 35, 35, 0.1);
+}
+
+#exEggframe iframe{
+    width: 800px;
+    height: 600px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#exmarbleframe{
+    display: flexbox;
+    border: 1px transparent #ffffff;
+    border-radius: 10px;
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #fcede37e ;
+    box-shadow: 0 0 10px rgba(36, 35, 35, 0.1);
+}
+
+#exmarbleframe iframe{
+    width: 800px;
+    height: 600px;
+    margin: 0px;
+    padding: 0px;
+}
+
+#exs button{
+    border: 1px transparent #ffffff;
+    align-self: center;
+    border-radius: 10px;
+    max-width: 1000px;
+    margin: 50px auto;
+    padding: 0px;
+    border-radius: 15px;
+}
+
+#btn_natu{
+    text-align: center;
+    color: #1c224200;
+    background-color: #f2baaf00;
+    border: 0px;
+    border-radius: 0px;
+    height: 100px;
+    width: 100px;
+    stroke: #0f137e00;
+}
+
+#btn_egg{
+    text-align: center;
+    color: #1c224200;
+    background-color: #f2baaf00;
+    border: 0px;
+    border-radius: 0px;
+    height: 100px;
+    width: 100px;
+    stroke: #0f137e00;
+}
+#btn_marble{
+    text-align: center;
+    color: #1c224200;
+    background-color: #f2baaf00;
+    border: 0px;
+    border-radius: 0px;
+    height: 100px;
+    width: 100px;
+    stroke: #0f137e00;
+}
+
+#exNatuframe{
+    display: flex;
+}
+
+#exEggframe{
+    display: flex;
+}
+
+#exmarbleframe{
+    display: flex;
+}
